@@ -60,4 +60,4 @@ session.add(jugador5)
 session.add(jugador6)
 
 # se confirma las transacciones
-session.commit()
+
